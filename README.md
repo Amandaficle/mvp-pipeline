@@ -39,18 +39,15 @@ disponibilizados na versão pública do dataset, incluindo
 `olist_order_payments_dataset.csv`, `olist_geolocation_dataset.csv` e
 `product_category_name_translation.csv`.
 
-### 1.2 Por que esta base foi escolhida?
+### 1.2 Por que escolhi essa base ?
 
-A escolha da base foi orientada pela possibilidade de construir um
-problema de negócio próximo de um cenário real e, ao mesmo tempo,
-adequado ao contexto do MVP.
+A escolha da base foi orientada pela possibilidade de construir um problema
+de negócio suficientemente próximo de um cenário real e, ao mesmo tempo, adequado ao contexto da disciplina.
 
-Uma operação de comércio eletrônico reúne diferentes dimensões que
-precisam ser analisadas de forma integrada: vendas, produtos, clientes,
-localização, logística e experiência após a compra. Isso permite
-exercitar não apenas a manipulação de dados, mas também decisões de
-modelagem, integração entre tabelas, tratamento de qualidade e
-construção de estruturas analíticas orientadas a perguntas de negócio.
+Me interessei pela base pois uma operação de comércio eletrônico reúne diferentes dimensões que precisam 
+ser analisadas de forma integrada: vendas, produtos, clientes, localização, logística e experiência
+após a compra. Isso permite exercitar não apenas a manipulação de dados, mas também decisões de modelagem, integração entre tabelas, 
+tratamento de qualidade e construção de estruturas analíticas orientadas a perguntas de negócio.
 
 ### 1.3 Contexto do problema de negócio
 
