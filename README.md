@@ -142,6 +142,9 @@ O pipeline foi organizado segundo uma arquitetura de camadas:
 A lógica adotada separa os dados de acordo com seu nível de
 transformação e finalidade.
 
+### Evidência 3 --- catálogo de dados no Databricks (print de consulta feita na plataforma seguido do detalhamento)
+<img width="1250" height="680" alt="image" src="https://github.com/user-attachments/assets/61ab9270-266a-47b8-b8a1-713cf9667f41" />
+
 ### 3.1 Camada Bronze
 
 A camada Bronze mantém os dados próximos à estrutura original da fonte.
