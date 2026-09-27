@@ -672,13 +672,11 @@ Finalidade: responder à Q5 — evolução temporal de pedidos, faturamento e ti
 
 O processo foi dividido em cinco notebooks:
 
-``` text
-01_Bronze
-02_Silver
-03_Gold
-04_Qualidade
-05_Análise
-```
+- [01_Bronze](./notebooks/01_bronze.ipynb)
+- [02_Silver](./notebooks/02_Silver.ipynb)
+- [03_Gold](./notebooks/03_Gold.ipynb)
+- [04_Qualidade_Dados](./notebooks/04_Qualidade_Dados.ipynb)
+- [05_Analise](./notebooks/05_Analise.ipynb)
 
 Essa divisão separa as etapas de ingestão, transformação, modelagem,
 validação da qualidade e análise.
